@@ -1,0 +1,19 @@
+3
+3
+3
+Starting Parallel
+PARALLEL CONJUGATE GRADIENT SOLVER
+Solution Found:
+Took : 0.000209093 s
+For : 3x3 matrix
+NumNodes = 3
+In 3 iteration
+err 2.00297e-31
+===== A =====
+[ 2,-1, 0]
+[-1, 2,-1]
+[ 0,-1, 2]
+===== x =====
+[4.25,7.5,6.75]
+===== b =====
+[ 1, 4, 6]
