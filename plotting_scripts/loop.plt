@@ -1,0 +1,32 @@
+set terminal jpeg
+
+
+set logscale cb
+set cbrange [0.0005:1.0]
+
+filenameE = "./".k.".".j."".i."_UE.jpg"
+filenameB = "./".k.".".j."".i."_UB.jpg"
+filenameT = "./".k.".".j."".i."_UT.jpg"
+filename = "./".k.".".j."".i.".dat"
+
+set output filenameE
+plot filename u 1:2:($3==0?$7:1/0) t "U_{E} time ".k.".".j."".i."" with image
+
+set output filenameB
+plot filename u 1:2:($3==0?$8:1/0) t "U_{B} time ".k.".".j."".i."" with image
+
+set output filenameT
+plot filename u 1:2:($3==0?$9:1/0) t "U_{total} time ".k.".".j."".i."" with image
+        
+
+
+i = i+5
+if(i<10) reread; 
+j = j+1 
+i = 0
+if(j<10) reread;
+k = k+1
+j=0
+i=0
+if(k<2) reread;
+set output 

@@ -1,0 +1,3 @@
+g++ -o bessel bessel.c -I /home/sfw/include -L /home/sfw/lib -lgsl -lgslcblas
+g++ -o eigen eigen.c -I /home/sfw/include -L /home/sfw/lib -lgsl -lgslcblas
+g++ -o qr qr.c -I /home/sfw/include -L /home/sfw/lib -lgsl -lgslcblas
