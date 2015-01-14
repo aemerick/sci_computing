@@ -1,0 +1,136 @@
+# Starting Timing
+#Setting p_xyz
+#Done setting p_xyz
+#Setting grid point relationships
+#Done setting grid point relationships
+Iteration 0: Beginning IRL Algorithm
+Iteration 0: Completed IRL. Obtained eigenvalue -1.979471e+00 
+Iteration 0: sum of n is 2.317148e+02
+sum b -6.14483e-12
+Iteration 0: Beginning CG function
+Iteration 0: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36379.5
+T 3.87923
+Eext -7.83817
+Ex -1.07185
+Eh 2.51242
+Etot -2.51838
+Iteration 1: Beginning IRL Algorithm
+Iteration 1: Completed IRL. Obtained eigenvalue -2.939478e-01 
+Iteration 1: sum of n is 2.317148e+02
+sum b 6.83745e-12
+Iteration 1: Beginning CG function
+Iteration 1: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 35965.5
+T 2.11859
+Eext -5.75686
+Ex -0.752941
+Eh 1.74539
+Etot -2.64582
+Iteration 2: Beginning IRL Algorithm
+Iteration 2: Completed IRL. Obtained eigenvalue -5.992415e-01 
+Iteration 2: sum of n is 2.317148e+02
+sum b -1.23659e-11
+Iteration 2: Beginning CG function
+Iteration 2: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36184.6
+T 2.85873
+Eext -6.71624
+Ex -0.893281
+Eh 2.07898
+Etot -2.67181
+Iteration 3: Beginning IRL Algorithm
+Iteration 3: Completed IRL. Obtained eigenvalue -4.498950e-01 
+Iteration 3: sum of n is 2.317148e+02
+sum b -1.85847e-11
+Iteration 3: Beginning CG function
+Iteration 3: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36095.1
+T 2.51454
+Eext -6.2886
+Ex -0.829601
+Eh 1.92685
+Etot -2.67681
+Iteration 4: Beginning IRL Algorithm
+Iteration 4: Completed IRL. Obtained eigenvalue -5.142062e-01 
+Iteration 4: sum of n is 2.317148e+02
+sum b -1.85309e-11
+Iteration 4: Beginning CG function
+Iteration 4: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36137.4
+T 2.66862
+Eext -6.48365
+Ex -0.858429
+Eh 1.99557
+Etot -2.67788
+Iteration 5: Beginning IRL Algorithm
+Iteration 5: Completed IRL. Obtained eigenvalue -4.844210e-01 
+Iteration 5: sum of n is 2.317148e+02
+sum b -2.1944e-11
+Iteration 5: Beginning CG function
+Iteration 5: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36118.6
+T 2.59833
+Eext -6.39542
+Ex -0.845344
+Eh 1.96435
+Etot -2.67809
+Iteration 6: Beginning IRL Algorithm
+Iteration 6: Completed IRL. Obtained eigenvalue -4.977996e-01 
+Iteration 6: sum of n is 2.317148e+02
+sum b 1.49639e-12
+Iteration 6: Beginning CG function
+Iteration 6: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36127.2
+T 2.63014
+Eext -6.4355
+Ex -0.851278
+Eh 1.9785
+Etot -2.67813
+Iteration 7: Beginning IRL Algorithm
+Iteration 7: Completed IRL. Obtained eigenvalue -4.917033e-01 
+Iteration 7: sum of n is 2.317148e+02
+sum b 1.20642e-11
+Iteration 7: Beginning CG function
+Iteration 7: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36123.3
+T 2.61569
+Eext -6.41732
+Ex -0.848585
+Eh 1.97208
+Etot -2.67814
+Iteration 8: Beginning IRL Algorithm
+Iteration 8: Completed IRL. Obtained eigenvalue -4.944634e-01 
+Iteration 8: sum of n is 2.317148e+02
+sum b 3.06825e-12
+Iteration 8: Beginning CG function
+Iteration 8: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36125.1
+T 2.62224
+Eext -6.42557
+Ex -0.849807
+Eh 1.97499
+Etot -2.67814
+Iteration 9: Beginning IRL Algorithm
+Iteration 9: Completed IRL. Obtained eigenvalue -4.932101e-01 
+Iteration 9: sum of n is 2.317148e+02
+sum b -8.65149e-12
+Iteration 9: Beginning CG function
+Iteration 9: Completed CG Solver. Obtained Vh
+sum ncomptot -35296.6
+sum V 36124.3
+T 2.61927
+Eext -6.42183
+Ex -0.849253
+Eh 1.97367
+Etot -2.67814
+Finished in 1.784541e+03 s (2.974235e+01 min)
